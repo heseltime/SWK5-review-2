@@ -1,0 +1,15 @@
+C:\Public\SWK5-review-2\streams\bin\Debug\net8.0\streams.exe
+C:\Public\SWK5-review-2\streams\bin\Debug\net8.0\streams.deps.json
+C:\Public\SWK5-review-2\streams\bin\Debug\net8.0\streams.runtimeconfig.json
+C:\Public\SWK5-review-2\streams\bin\Debug\net8.0\streams.dll
+C:\Public\SWK5-review-2\streams\bin\Debug\net8.0\streams.pdb
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.AssemblyInfoInputs.cache
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.AssemblyInfo.cs
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.csproj.CoreCompileInputs.cache
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.sourcelink.json
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.dll
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\refint\streams.dll
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.pdb
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\streams.genruntimeconfig.cache
+C:\Public\SWK5-review-2\streams\obj\Debug\net8.0\ref\streams.dll
