@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Public\\SWK5-review-2\\streams\\streams.csproj": {}
+    "C:\\Public\\SWK5-review-2\\streams\\streams.csproj": {}
   },
   "projects": {
-    "c:\\Public\\SWK5-review-2\\streams\\streams.csproj": {
+    "C:\\Public\\SWK5-review-2\\streams\\streams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Public\\SWK5-review-2\\streams\\streams.csproj",
+        "projectUniqueName": "C:\\Public\\SWK5-review-2\\streams\\streams.csproj",
         "projectName": "streams",
-        "projectPath": "c:\\Public\\SWK5-review-2\\streams\\streams.csproj",
+        "projectPath": "C:\\Public\\SWK5-review-2\\streams\\streams.csproj",
         "packagesPath": "C:\\Users\\jackh\\.nuget\\packages\\",
-        "outputPath": "c:\\Public\\SWK5-review-2\\streams\\obj\\",
+        "outputPath": "C:\\Public\\SWK5-review-2\\streams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
